@@ -1,4 +1,4 @@
-# challenge
+# challenge1
 
 Link for the url: https://aarthigans.github.io/challenge1/
 Github link: https://github.com/aarthigans/challenge1
